@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/CM"]
+	path = Assets/Plugins/CM
+	url = https://github.com/empireboy/CM-Unity-Package
